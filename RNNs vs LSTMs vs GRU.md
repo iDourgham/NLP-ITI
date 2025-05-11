@@ -90,3 +90,7 @@ LSTM and GRU units have shown strong performance in tasks requiring long-term me
 ## Summary
 
 Advanced recurrent units like **LSTM** and **GRU** significantly improve upon traditional RNNs by enabling better training dynamics and memory retention. GRUs often outperform LSTMs in terms of **convergence speed** and **generalization**, while LSTMs may be better suited for tasks requiring **fine-grained memory control**.
+
+---
+
+### Paper link: https://arxiv.org/pdf/1412.3555
