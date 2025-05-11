@@ -23,7 +23,6 @@ These issues arise from the repeated multiplication of gradients through time st
 
    * **Gradient Clipping**: Clipping the norm of the gradient vector to prevent explosion.
    * **Second-order Methods**: May be less sensitive to gradient growth patterns.
-   * **Advanced Techniques**: Proposed by researchers like Bengio et al. (2013), Pascanu et al. (2013), and Martens & Sutskever (2011).
 
 2. **Smarter Architectures**:
 
